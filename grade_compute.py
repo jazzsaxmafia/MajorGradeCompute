@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*
 
+""" when you want to calculate the grade of only your major courses, use this"""
 fin= open("Untitled.csv")
 fout = open("output.txt", "w");
 score_dic = {
